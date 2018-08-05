@@ -1,0 +1,60 @@
+[
+  {
+    "start": "08:30",
+    "end": "10:30",
+    "title": "Parallel Session 3",
+    "location": "Parallel Sessions Room (Burgundy 7 - 11), Margo Hotel, Depok"
+  },
+  {
+    "start": "10:30",
+    "end": "11:00",
+    "title": "Coffee Break",
+    "location": ""
+  },
+  {
+    "start": "11:00",
+    "end": "12:30",
+    "title": "Plenary Session 2",
+    "location": "Convention Hall, Margo Hotel, Depok",
+    "speakers": [
+      {
+        "name": "Dr. Phil. Hora Tjitra",
+        "title": "Managing Director, Tjitra Consulting"
+      },
+      {
+        "name": "Prof. Dr. Evan Berman",
+        "title": "Victoria University of Wellington, New Zealand"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Dr. Vishnu Juwono",
+        "title": "Head of International Office, Faculty of Administrative Science, Universitas Indonesia"
+      }
+    ]
+  },
+  {
+    "start": "12:30",
+    "end": "13:30",
+    "title": "Lunch",
+    "location" : "Coffee Shop, Margo Hotel, Depok"
+  },
+  {
+    "start": "13:30",
+    "end": "15:30",
+    "title": "Parallel Session 4",
+    "location": "Parallel Sessions Room (Burgundy 7 - 11), Margo Hotel, Depok"
+  },
+  {
+    "start": "15:30",
+    "end": "16:00",
+    "title": "Coffee Break",
+    "location": ""
+  },
+  {
+    "start": "16:00",
+    "end": "16:30",
+    "title": "Closing Ceremony and Announcements",
+    "location": "Convention Hall, Margo Hotel, Depok"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": {
+      "name": "Prof. Evan Berman",
+      "title": "School of Government, Victoria University of Wellington, New Zealand"
+    },
+    "speech": {
+      "title": "Government and Business Relations in Changing ASEAN: Corruption and Ethical Issues",
+      "abstract": "TBD"
+    },
+    "day": 2,
+    "confirmed": true
+  },
+  {
+    "speaker": {
+      "name": "Dr. Hora Tjitra",
+      "title": "Tjitra and Associates"
+    },
+    "speech": {
+      "title": "Strategic Governance and Organizational Readiness towards Regional Cooperation",
+      "abstract": "TBD"
+    },
+    "day": 2,
+    "confirmed": true
+  }
+]
